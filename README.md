@@ -13,5 +13,4 @@
 ![image](https://user-images.githubusercontent.com/82978703/220087653-85365921-db81-46a0-948a-a3430054a92c.png)
 
 ## 2.4
-
-в разработке.......
+![image](https://user-images.githubusercontent.com/82978703/220117201-7353ea49-7b40-4b88-8310-7a6ec1da1f7f.png)
