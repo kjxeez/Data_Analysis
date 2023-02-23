@@ -9,5 +9,5 @@
 ## Задание
 ![image](https://user-images.githubusercontent.com/82978703/220861228-2dc231ed-7fc3-4ed9-a551-d8eedaf1c799.png)
 ## Вывод
-![image](https://user-images.githubusercontent.com/82978703/220863566-7c507113-4ec1-4f17-aa74-8a83dd641d74.png)
+![image](https://user-images.githubusercontent.com/82978703/220863958-15ea3c33-c27e-4523-a118-40f9bf7fdf6a.png)
 
