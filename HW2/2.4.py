@@ -32,4 +32,4 @@ Yl = N*np.mean(C)+Ql*stdY
 print(f'Левая граница Д.И. для суммарного: {Yl}')
 Yr = N*np.mean(C)+Qr*stdY
 print(f'Правая граница Д.И. для суммарного: {Yr}')
-print(f'\033[32m({Yl};{Yr}\033[39m')
+print(f'\033[32m({Yl}; {Yr})\033[39m')
