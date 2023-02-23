@@ -9,7 +9,7 @@
 ## Задание
 ![image](https://user-images.githubusercontent.com/82978703/220861228-2dc231ed-7fc3-4ed9-a551-d8eedaf1c799.png)
 ## Вывод
-![image](https://user-images.githubusercontent.com/82978703/220863958-15ea3c33-c27e-4523-a118-40f9bf7fdf6a.png)
+![image](https://user-images.githubusercontent.com/82978703/220955096-ea4f47ff-30c4-409c-867a-270c5e06098f.png)
 ----------------------
 ## Задание
 ![image](https://user-images.githubusercontent.com/82978703/220867396-2530ffe3-868b-4f8d-8a50-26fab655d083.png)
