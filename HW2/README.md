@@ -29,6 +29,10 @@
 
 ----------------------
 ## Задание
+![image](https://user-images.githubusercontent.com/82978703/221422048-7dc071b0-c674-40da-bc04-9c877cae6a8e.png)
+## Вывод
+----------------------
+## Задание
 ![image](https://user-images.githubusercontent.com/82978703/221413321-a1cfaa27-3476-4ae7-bc6f-b50a58bca1b7.png)
 ## Вывод
 ![image](https://user-images.githubusercontent.com/82978703/221376013-8ea64f9f-d62e-4015-bac4-19a31cda4ea9.png)
