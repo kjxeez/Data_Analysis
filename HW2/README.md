@@ -20,6 +20,12 @@
 ![image](https://user-images.githubusercontent.com/82978703/221413309-3805a6a2-6192-412c-b9c7-e6fb2ac44498.png)
 ## Вывод
 ![image](https://user-images.githubusercontent.com/82978703/221413217-85fa0be4-1703-4fbc-876c-2b80a75c1733.png)
+----------------------
+## Задание
+![image](https://user-images.githubusercontent.com/82978703/221419972-07e78111-d7bc-4106-8b19-3c7413512be2.png)
+![image](https://user-images.githubusercontent.com/82978703/221420026-246f3d66-0e7b-44cc-9c1c-458a2db84825.png)
+## Вывод
+![image](https://user-images.githubusercontent.com/82978703/221420777-2d7e79f7-08bb-48e7-b2c7-aaa23f903899.png)
 
 ----------------------
 ## Задание
