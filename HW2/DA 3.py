@@ -14,7 +14,7 @@ f = n / N
 print(f'Доля отбора: {f}')
 std = math.sqrt(D)
 stdy = std * math.sqrt(1 - f) / math.sqrt(n)
-# std=math.sqrt(D)/math.sqrt(n-1)
+
 print(f'Ст. ошибка среднего = {stdy}')
 stdY = round(N * std * math.sqrt(1 - f) / math.sqrt(n))
 print(f'Ст. ошибка оценки общего количества студентов ({N * n_mean}) = {stdY}')
