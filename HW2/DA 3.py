@@ -19,8 +19,8 @@ print(f'Ст. ошибка среднего = {stdy}')
 stdY = round(N * std * math.sqrt(1 - f) / math.sqrt(n))
 print(f'Ст. ошибка оценки общего количества студентов ({N * n_mean}) = {stdY}')
 a = 1 - 0.95
-Ql = -1.645
-Qr = 1.645
+Ql = -1.96
+Qr = 1.96
 yl = (n_mean + Ql * stdy)
 print(f'Левая граница Д.И. для среднего: {yl}')
 yr = (n_mean + Qr * stdy)
