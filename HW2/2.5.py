@@ -12,9 +12,9 @@ std = 200
 e = std/n
 print(f'отклонение выборочного среднего: {e}')
 a = 1 - 0.95
-Ql = -1.645
-Qr = 1.645
-Q = 1.96
+Ql = -1.96
+Qr = 1.96
+
 yl=y_mean+Ql*e
 print(f'Левая граница Д.И. для среднего: {yl}')
 yr=y_mean+Qr*e
@@ -24,5 +24,5 @@ y2_mean =y2/n
 std=n/(n-1)*(y2_mean-y_mean**2)
 print(f'оценка среднего квадратического отклонения: {std}')
 n2 = 12
-q=Q*math.sqrt(std)/math.sqrt(n2)*math.sqrt(1-n2/n)
+q=Qr*math.sqrt(std)/math.sqrt(n2)*math.sqrt(1-n2/n)
 print(f'\033[31mточность для суммарного значения = {q} < 5.56 (откл. выб. среднего)\nЯ согласна с экспертом\033[39m')
