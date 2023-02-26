@@ -17,8 +17,8 @@ f=n/N
 D = (1 / (n - 1)) * (y2 - y ** 2 / n)
 print(f'D: {D}')
 a=1-0.1
-Ql=-1.282
-Qr=1.282
+Ql=-1.64
+Qr=1.64
 
 stdy = math.sqrt(D)
 stdY = N*math.sqrt(D)*math.sqrt(1-f)/math.sqrt(n)
