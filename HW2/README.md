@@ -25,6 +25,8 @@
 ![image](https://user-images.githubusercontent.com/82978703/221419972-07e78111-d7bc-4106-8b19-3c7413512be2.png)
 ![image](https://user-images.githubusercontent.com/82978703/221420026-246f3d66-0e7b-44cc-9c1c-458a2db84825.png)
 ## Вывод
+![image](https://user-images.githubusercontent.com/82978703/221420777-2d7e79f7-08bb-48e7-b2c7-aaa23f903899.png)
+
 ----------------------
 ## Задание
 ![image](https://user-images.githubusercontent.com/82978703/221413321-a1cfaa27-3476-4ae7-bc6f-b50a58bca1b7.png)
