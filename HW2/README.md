@@ -17,13 +17,13 @@
 ![image](https://user-images.githubusercontent.com/82978703/220965087-12eefca4-3af5-4591-beb6-c2af368f4d64.png)
 ----------------------
 ## Задание
-![image](https://user-images.githubusercontent.com/82978703/220867396-2530ffe3-868b-4f8d-8a50-26fab655d083.png)
+![image](https://user-images.githubusercontent.com/82978703/221413309-3805a6a2-6192-412c-b9c7-e6fb2ac44498.png)
 ## Вывод
 ![image](https://user-images.githubusercontent.com/82978703/221413217-85fa0be4-1703-4fbc-876c-2b80a75c1733.png)
 
 ----------------------
 ## Задание
-![image](https://user-images.githubusercontent.com/82978703/221413254-ebab2590-8883-4709-a31e-88836e3734ee.png)
+![image](https://user-images.githubusercontent.com/82978703/221413321-a1cfaa27-3476-4ae7-bc6f-b50a58bca1b7.png)
 ## Вывод
 ![image](https://user-images.githubusercontent.com/82978703/221376013-8ea64f9f-d62e-4015-bac4-19a31cda4ea9.png)
 
