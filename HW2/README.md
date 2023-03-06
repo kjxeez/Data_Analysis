@@ -14,7 +14,7 @@
 ## Задание
 ![image](https://user-images.githubusercontent.com/82978703/220867396-2530ffe3-868b-4f8d-8a50-26fab655d083.png)
 ## Вывод
-![image](https://user-images.githubusercontent.com/82978703/220965087-12eefca4-3af5-4591-beb6-c2af368f4d64.png)
+![image](https://user-images.githubusercontent.com/82978703/221560475-fd70b062-0669-4721-aa27-f65a43e47a82.png)
 ----------------------
 ## Задание
 ![image](https://user-images.githubusercontent.com/82978703/221413309-3805a6a2-6192-412c-b9c7-e6fb2ac44498.png)
