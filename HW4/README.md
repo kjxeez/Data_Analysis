@@ -17,4 +17,4 @@
 # Задание
 ![image](https://user-images.githubusercontent.com/82978703/224567296-6227bf00-ab8c-4bc5-83be-6570e6ebd8a5.png)
 # Решение
-![image](https://user-images.githubusercontent.com/82978703/224567527-00988b80-610e-4db2-b172-0afd64d5f028.png)
+![image](https://user-images.githubusercontent.com/82978703/224567548-cc349925-6a5e-4d63-8996-7878a7cfa3c9.png)
