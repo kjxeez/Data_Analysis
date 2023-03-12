@@ -1,3 +1,4 @@
+Первые две задачи в HW 4
 # Задание
 ![image](https://user-images.githubusercontent.com/82978703/224566411-26ae45db-13c4-4a47-a5e6-992034c2edef.png)
 # Решение
