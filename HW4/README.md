@@ -12,9 +12,9 @@
 # Задание
 ![image](https://user-images.githubusercontent.com/82978703/224565816-27b5eab4-3f4f-48ec-a20f-ff9b5bf891f9.png)
 # Решение
-![image](https://user-images.githubusercontent.com/82978703/224566231-9d5de72a-2427-41e7-8422-8a25f5a7c89b.png)
+![image](https://user-images.githubusercontent.com/82978703/224567074-5f0a5f38-503e-44e4-9fb3-eb09b3469e3e.png)
 ---------------------------------
 # Задание
-![image](https://user-images.githubusercontent.com/82978703/224565744-567a1b52-fa6b-4a13-b103-455f4aae5296.png)
+![image](https://user-images.githubusercontent.com/82978703/224567296-6227bf00-ab8c-4bc5-83be-6570e6ebd8a5.png)
 # Решение
----------------------------------
+![image](https://user-images.githubusercontent.com/82978703/224567548-cc349925-6a5e-4d63-8996-7878a7cfa3c9.png)
