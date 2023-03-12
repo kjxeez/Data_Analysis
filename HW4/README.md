@@ -6,3 +6,4 @@
 # Задание
 ![image](https://user-images.githubusercontent.com/82978703/224562134-3a3a9c0d-f109-4a2b-9382-99a15eaf0bb7.png)
 # Решение
+![image](https://user-images.githubusercontent.com/82978703/224562558-557702cb-d377-4844-b048-c9e072b9b7a1.png)
