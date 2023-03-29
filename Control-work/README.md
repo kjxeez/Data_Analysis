@@ -1,4 +1,6 @@
 # 2 вариант 3961
+![image](https://user-images.githubusercontent.com/82978703/228450700-b2466c18-e045-4111-956c-85c0644772f3.png)
+
 ## 1 задача
 # решение
 ![image](https://user-images.githubusercontent.com/82978703/228450095-eca1dc97-1520-4c8f-a0f8-3c2e2a059877.png)
